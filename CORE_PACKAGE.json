@@ -1,0 +1,6 @@
+{
+  "name": "common_msgs",
+  "namespace": "@",
+  "description": "Common Messages",
+  "sources": []
+}

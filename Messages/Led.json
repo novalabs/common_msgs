@@ -1,0 +1,19 @@
+{
+  "name": "Led",
+  "description": "Status LED",
+  "namespace": "common_msgs",
+  "fields": [
+    {
+      "name": "led",
+      "description": "Which led FIXME: messages with size smaller than sizeof(void*) fail",
+      "type": "UINT32",
+      "size": 1
+    },
+    {
+      "name": "value",
+      "description": "Value of the led",
+      "type": "UINT8",
+      "size": 1
+    }
+  ]
+}

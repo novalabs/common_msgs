@@ -1,0 +1,13 @@
+{
+  "name": "Float32",
+  "description": "A 32-bit float",
+  "namespace": "common_msgs",
+  "fields": [
+    {
+      "name": "value",
+      "description": "value",
+      "type": "FLOAT32",
+      "size": 1
+    }
+  ]
+}

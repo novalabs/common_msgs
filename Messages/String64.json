@@ -1,0 +1,13 @@
+{
+  "name": "String64",
+  "description": "String64",
+  "namespace": "common_msgs",
+  "fields": [
+    {
+      "name": "data",
+      "description": "64 bytes long string",
+      "type": "CHAR",
+      "size": 64
+    }
+  ]
+}

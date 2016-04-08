@@ -1,0 +1,25 @@
+{
+  "name": "Vector3_i16",
+  "description": "A 3D vector of INT16",
+  "namespace": "@",
+  "fields": [
+    {
+      "name": "x",
+      "description": "x",
+      "type": "INT16",
+      "size": 1
+    },
+    {
+      "name": "y",
+      "description": "y",
+      "type": "INT16",
+      "size": 1
+    },
+    {
+      "name": "z",
+      "description": "z",
+      "type": "INT16",
+      "size": 1
+    }
+  ]
+}

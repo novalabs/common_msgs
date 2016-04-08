@@ -1,0 +1,25 @@
+{
+  "name": "Vector3_f32",
+  "description": "A 3D vector of FLOAT16",
+  "namespace": "common_msgs",
+  "fields": [
+    {
+      "name": "x",
+      "description": "x",
+      "type": "FLOAT32",
+      "size": 1
+    },
+    {
+      "name": "y",
+      "description": "y",
+      "type": "FLOAT32",
+      "size": 1
+    },
+    {
+      "name": "z",
+      "description": "z",
+      "type": "FLOAT32",
+      "size": 1
+    }
+  ]
+}
