@@ -1,7 +1,7 @@
 {
   "name": "Led",
   "description": "Status LED",
-  "namespace": "common_msgs",
+  "namespace": "@",
   "fields": [
     {
       "name": "led",

@@ -1,7 +1,7 @@
 {
   "name": "Vector3_f32",
   "description": "A 3D vector of FLOAT16",
-  "namespace": "common_msgs",
+  "namespace": "@",
   "fields": [
     {
       "name": "x",

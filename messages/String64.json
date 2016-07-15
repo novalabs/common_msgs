@@ -1,7 +1,7 @@
 {
   "name": "String64",
   "description": "String64",
-  "namespace": "common_msgs",
+  "namespace": "@",
   "fields": [
     {
       "name": "data",

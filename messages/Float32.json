@@ -1,7 +1,7 @@
 {
   "name": "Float32",
   "description": "A 32-bit float",
-  "namespace": "common_msgs",
+  "namespace": "@",
   "fields": [
     {
       "name": "value",
