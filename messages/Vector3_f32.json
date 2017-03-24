@@ -1,23 +1,23 @@
 {
   "name": "Vector3_f32",
-  "description": "A 3D vector of FLOAT16",
+  "description": "A 3D vector of FLOAT32",
   "namespace": "@",
   "fields": [
     {
       "name": "x",
-      "description": "x",
+      "description": "x component",
       "type": "FLOAT32",
       "size": 1
     },
     {
       "name": "y",
-      "description": "y",
+      "description": "y component",
       "type": "FLOAT32",
       "size": 1
     },
     {
       "name": "z",
-      "description": "z",
+      "description": "z component",
       "type": "FLOAT32",
       "size": 1
     }
