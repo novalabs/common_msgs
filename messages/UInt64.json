@@ -1,0 +1,13 @@
+{
+  "name": "UInt64",
+  "description": "A 64-bit unsigned int",
+  "namespace": "@",
+  "fields": [
+    {
+      "name": "value",
+      "description": "value",
+      "type": "UINT64",
+      "size": 1
+    }
+  ]
+}
