@@ -1,0 +1,13 @@
+{
+  "name": "Array12_u16",
+  "description": "An array of 12 UINT16",
+  "namespace": "@",
+  "fields": [
+    {
+      "name": "values",
+      "description": "x",
+      "type": "UINT16",
+      "size": 12
+    }
+  ]
+}
